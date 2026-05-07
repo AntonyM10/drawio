@@ -80,6 +80,9 @@
         <mxCell id="NQ8u1UKUMeSrLokraIQ_-56" parent="NQ8u1UKUMeSrLokraIQ_-11" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=4;strokeColor=light-dark(#000000,#6600CC);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=light-dark(#FFFFFF,#FFF2CC);fontStyle=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sales Order Received&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;By Warehouse&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="190" x="50" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="NQ8u1UKUMeSrLokraIQ_-59" parent="NQ8u1UKUMeSrLokraIQ_-11" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Inventory Available?" vertex="1">
+          <mxGeometry height="130" width="200" x="330" y="10" as="geometry" />
+        </mxCell>
         <mxCell id="NQ8u1UKUMeSrLokraIQ_-14" parent="NQ8u1UKUMeSrLokraIQ_-5" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=light-dark(transparent,#CC6600);points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=70;collapsible=0;recursiveResize=0;expand=0;fontSize=18;strokeWidth=3;" value="Billing / Accounts Receivable" vertex="1">
           <mxGeometry height="457" width="2120" y="937" as="geometry" />
         </mxCell>
