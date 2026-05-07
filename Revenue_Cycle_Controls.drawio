@@ -7,15 +7,15 @@
         <mxCell id="NQ8u1UKUMeSrLokraIQ_-5" parent="1" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontSize=21;fontColor=light-dark(#000000,#FF8000);fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=light-dark(#000000,#1A1A1A);strokeWidth=3;direction=east;perimeterSpacing=2;" value="Kissena Bakery — Revenue Cycle (Order-to-Cash)" vertex="1">
           <mxGeometry height="822" width="1050" x="20" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="NQ8u1UKUMeSrLokraIQ_-6" parent="NQ8u1UKUMeSrLokraIQ_-5" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=light-dark(#FFFFFF,#006600);points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=70;collapsible=0;recursiveResize=0;expand=0;fontSize=18;strokeWidth=2;labelBorderColor=none;rounded=0;swimlaneLine=1;swimlaneFillColor=light-dark(#FFFFFF,#000000);" value="Sales Department " vertex="1">
+        <mxCell id="NQ8u1UKUMeSrLokraIQ_-6" parent="NQ8u1UKUMeSrLokraIQ_-5" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=light-dark(#FFFFFF,#009900);points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=70;collapsible=0;recursiveResize=0;expand=0;fontSize=18;strokeWidth=2;labelBorderColor=none;rounded=0;swimlaneLine=1;swimlaneFillColor=light-dark(#FFFFFF,#000000);" value="Sales Department " vertex="1">
           <mxGeometry height="240" width="1050" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="NQ8u1UKUMeSrLokraIQ_-7" parent="NQ8u1UKUMeSrLokraIQ_-6" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" value="" vertex="1">
+        <mxCell id="NQ8u1UKUMeSrLokraIQ_-7" parent="NQ8u1UKUMeSrLokraIQ_-6" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=light-dark(transparent,#FFF4C3);startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;" value="" vertex="1">
           <mxGeometry height="240" width="980" x="70" as="geometry">
             <mxRectangle height="240" width="980" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NQ8u1UKUMeSrLokraIQ_-38" parent="NQ8u1UKUMeSrLokraIQ_-7" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="" vertex="1">
+        <mxCell id="NQ8u1UKUMeSrLokraIQ_-38" parent="NQ8u1UKUMeSrLokraIQ_-7" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#99FF99);strokeColor=light-dark(#000000,#009900);" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;START&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="NQ8u1UKUMeSrLokraIQ_-10" parent="NQ8u1UKUMeSrLokraIQ_-5" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=light-dark(transparent,#007FFF);points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=70;collapsible=0;recursiveResize=0;expand=0;fontSize=19;strokeWidth=3;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="Warehouse Department " vertex="1">
