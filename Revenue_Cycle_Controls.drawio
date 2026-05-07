@@ -15,6 +15,9 @@
             <mxRectangle height="240" width="980" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NQ8u1UKUMeSrLokraIQ_-38" parent="NQ8u1UKUMeSrLokraIQ_-7" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="20" y="20" as="geometry" />
+        </mxCell>
         <mxCell id="NQ8u1UKUMeSrLokraIQ_-10" parent="NQ8u1UKUMeSrLokraIQ_-5" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=light-dark(transparent,#007FFF);points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=70;collapsible=0;recursiveResize=0;expand=0;fontSize=19;strokeWidth=3;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="Warehouse Department " vertex="1">
           <mxGeometry height="259" width="1050" y="280" as="geometry" />
         </mxCell>
