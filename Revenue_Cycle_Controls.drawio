@@ -5,14 +5,14 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NQ8u1UKUMeSrLokraIQ_-5" parent="1" style="shape=table;childLayout=tableLayout;startSize=60;collapsible=0;recursiveResize=0;expand=0;fontSize=23;fontColor=light-dark(#000000,#FF8000);fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=light-dark(#000000,#1A1A1A);strokeWidth=3;direction=east;perimeterSpacing=2;strokeColor=light-dark(#000000,#FFFFFF);" value="Kissena Bakery — Revenue Cycle (Order-to-Cash)" vertex="1">
-          <mxGeometry height="1080" width="2120" x="-7660" y="-5930" as="geometry" />
+          <mxGeometry height="1157" width="2120" x="-7660" y="-5930" as="geometry" />
         </mxCell>
         <mxCell id="NQ8u1UKUMeSrLokraIQ_-6" parent="NQ8u1UKUMeSrLokraIQ_-5" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=light-dark(#FFFFFF,#009900);points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=70;collapsible=0;recursiveResize=0;expand=0;fontSize=18;strokeWidth=3;labelBorderColor=none;rounded=0;swimlaneLine=1;swimlaneFillColor=light-dark(#FFFFFF,#000000);" value="Sales Department " vertex="1">
-          <mxGeometry height="535" width="2120" y="60" as="geometry" />
+          <mxGeometry height="560" width="2120" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="NQ8u1UKUMeSrLokraIQ_-7" parent="NQ8u1UKUMeSrLokraIQ_-6" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=light-dark(transparent,#FFF4C3);startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
-          <mxGeometry height="535" width="2050" x="70" as="geometry">
-            <mxRectangle height="535" width="2050" as="alternateBounds" />
+        <mxCell id="NQ8u1UKUMeSrLokraIQ_-7" parent="NQ8u1UKUMeSrLokraIQ_-6" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=light-dark(transparent,#FFF4C3);startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;fontColor=light-dark(#000000,#000000);strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="560" width="2050" x="70" as="geometry">
+            <mxRectangle height="560" width="2050" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NQ8u1UKUMeSrLokraIQ_-40" edge="1" parent="NQ8u1UKUMeSrLokraIQ_-7" source="NQ8u1UKUMeSrLokraIQ_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NQ8u1UKUMeSrLokraIQ_-39">
@@ -70,11 +70,11 @@
           <mxGeometry height="90" width="220" x="1340" y="35" as="geometry" />
         </mxCell>
         <mxCell id="NQ8u1UKUMeSrLokraIQ_-10" parent="NQ8u1UKUMeSrLokraIQ_-5" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=light-dark(transparent,#007FFF);points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=70;collapsible=0;recursiveResize=0;expand=0;fontSize=19;strokeWidth=5;fontColor=light-dark(#FFFFFF,#FFFFFF);" value="Warehouse Department " vertex="1">
-          <mxGeometry height="485" width="2120" y="595" as="geometry" />
+          <mxGeometry height="537" width="2120" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="NQ8u1UKUMeSrLokraIQ_-11" parent="NQ8u1UKUMeSrLokraIQ_-10" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;swimlaneFillColor=light-dark(#000000,#000000);strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="485" width="2050" x="70" as="geometry">
-            <mxRectangle height="485" width="2050" as="alternateBounds" />
+        <mxCell id="NQ8u1UKUMeSrLokraIQ_-11" parent="NQ8u1UKUMeSrLokraIQ_-10" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;strokeColor=inherit;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontSize=16;swimlaneFillColor=light-dark(#000000,#000000);strokeWidth=3;perimeterSpacing=0;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="537" width="2050" x="70" as="geometry">
+            <mxRectangle height="537" width="2050" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NQ8u1UKUMeSrLokraIQ_-56" parent="NQ8u1UKUMeSrLokraIQ_-11" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=4;strokeColor=light-dark(#000000,#6600CC);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=light-dark(#FFFFFF,#FFF2CC);fontStyle=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sales Order Received&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;By Warehouse&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -149,8 +149,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZODHlZ4Q30VKZ_CeJeOa-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;direction=north;" value="&lt;span style=&quot;caret-color: rgb(0, 127, 255); color: rgb(0, 127, 255);&quot;&gt;&lt;font&gt;--&amp;gt; Continued Page 2&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="40" y="40" as="geometry" />
+        <mxCell id="kTi92M1A_U-DH4yxQuNy-5" parent="1" style="swimlane;startSize=40;horizontal=0;html=1;fillColor=light-dark(#FFFFFF,#007FFF);swimlaneFillColor=default;" value="&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;Warehouse Department&lt;/font&gt;" vertex="1">
+          <mxGeometry height="210" width="1050" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q23-AGLQl7H3DGw6xpkb-1" edge="1" parent="kTi92M1A_U-DH4yxQuNy-5" source="NPYen-UkyxPZtTwgnnEa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NPYen-UkyxPZtTwgnnEa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NPYen-UkyxPZtTwgnnEa-1" parent="kTi92M1A_U-DH4yxQuNy-5" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;direction=north;" value="&lt;font style=&quot;font-size: 14px; color: light-dark(rgb(0, 0, 0), rgb(0, 127, 255));&quot;&gt;--&amp;gt; Continued Page 2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="90" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NPYen-UkyxPZtTwgnnEa-2" parent="kTi92M1A_U-DH4yxQuNy-5" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=4;strokeColor=light-dark(#000000,#6600CC);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fontStyle=0;fillColor=light-dark(#FFFFFF,#FFF2CC);" value="&lt;font style=&quot;font-size: 14px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Goods Dispatched to Customer&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="280" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Q23-AGLQl7H3DGw6xpkb-2" parent="1" style="swimlane;startSize=40;horizontal=0;html=1;fillColor=light-dark(#FFFFFF,#FF8000);swimlaneFillColor=default;" value="&lt;font style=&quot;font-weight: normal; font-size: 15px;&quot; face=&quot;Helvetica&quot;&gt;Billing / Accounts Receivables&lt;/font&gt;" vertex="1">
+          <mxGeometry height="360" width="1050" x="20" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
